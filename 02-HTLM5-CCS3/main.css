@@ -1,0 +1,16 @@
+* {
+    margin: 1;
+    padding: 1;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: black;
+}
+
+.imagen {
+    border: 20px;
+    border-color: red;
+    border-style: inset;
+}
